@@ -10,6 +10,11 @@ Key features of a Dribbble clone includes:
 - Implemented features for users to like and share designs, fostering a sense of community and engagement similar to the Dribbble platform.
 - Developed a search functionality and personalized recommendation system to help users discover new designs based on their preferences and interests.
 
+Technologies Used-
+   - HTML
+   - CSS
+   - JavaScript
+
 Outcome:
 
-Successfully created a fully functional Dribbble clone and this experience strengthened skills in front-end development, user interface design, and interaction design, contributing to an enhanced understanding of modern web development practices..
+Successfully created a fully functional Dribbble clone and this experience strengthened skills in front-end development, user interface design, and interaction design, contributing to an enhanced understanding of modern web development practices.
